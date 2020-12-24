@@ -1,0 +1,6 @@
+{"Name":"张三","Age":20,"Skill":"电工"}
+{"Name":"张三","Age":20,"Skill":"电工"}
+{"Name":"张三","Age":20,"Skill":"电工"}
+{"Name":"张三","Age":20,"Skill":"电工"}
+{"Name":"张三","Age":20,"Skill":"电工"}
+{"Name":"张三","Age":20,"Skill":"电工"}
